@@ -1,0 +1,1 @@
+Esta es la entrega del singleton, la he hecho con mucho amor.
